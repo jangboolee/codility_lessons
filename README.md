@@ -1,4 +1,4 @@
-# Solutions to Codility lessons
+# Solutions to Codility lessons (Python)
 
 My solutions to the Python lesson questions at https://app.codility.com/programmers/lessons.
 
