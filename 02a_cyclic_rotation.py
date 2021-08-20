@@ -14,7 +14,7 @@ def solution(A, K):
     # Loop through each index for each element in A
     for i in range(len(A)):
         
-        # If the only needs to be moved right
+        # If the item only needs to be moved right
         if i + K < len(A):
             rotated[i+K] = A[i]
 
