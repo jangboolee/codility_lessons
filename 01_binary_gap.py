@@ -5,7 +5,6 @@ def solution(N):
     
     # For cases with less than two 1s
     if binary_string.count('1') < 2:
-        
         return 0
     
     # For other cases
