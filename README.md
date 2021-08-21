@@ -10,4 +10,4 @@ My solutions to the lesson questions at https://app.codility.com/programmers/les
 * Lesson 3: Time Complexity
     * [FrogJmp](https://github.com/jangboolee/codility_lessons/blob/main/03a_frog_jump.py)
     * [PermMissingElem](https://github.com/jangboolee/codility_lessons/blob/main/03b_perm_missing_elem.py)
-    * [TapeEquilibrium]()
+    * [TapeEquilibrium](https://github.com/jangboolee/codility_lessons/blob/main/03c_tape_equilibrium.py)
