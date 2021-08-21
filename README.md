@@ -7,3 +7,7 @@ My solutions to the Python lesson questions at https://app.codility.com/programm
 * Lesson 2: Arrays
     * [CyclicRotation](https://github.com/jangboolee/codility_lessons/blob/main/02a_cyclic_rotation.py)
     * [OddOccurrencesInArray](https://github.com/jangboolee/codility_lessons/blob/main/02b_odd_occurences_in_array.py)
+* Lesson 3: Time Complexity
+    * [FrogJmp](https://github.com/jangboolee/codility_lessons/blob/main/03a_frog_jump.py)
+    * [PermMissingElem](https://github.com/jangboolee/codility_lessons/blob/main/03b_perm_missing_elem.py)
+    * [TapeEquilibrium]()
