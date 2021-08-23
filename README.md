@@ -17,4 +17,5 @@ My solutions to the lesson questions at https://app.codility.com/programmers/les
 My solutions to the  training questions at https://app.codility.com/programmers/trainings.
 
 * Lesson 6: SQL
-    * [SqlWorldCup](https://github.com/jangboolee/codility_solutions/blob/main/trainings/SQL_world_cup.sql)
+    * [SqlSum](https://github.com/jangboolee/codility_solutions/blob/main/trainings/06b_SQL_sum.sql)
+    * [SqlWorldCup](https://github.com/jangboolee/codility_solutions/blob/main/trainings/06c_SQL_world_cup.sql)
