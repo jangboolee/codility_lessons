@@ -4,7 +4,7 @@ SELECT host_team AS team_id, SUM(host_points_tmp.host_points) AS team_points
 FROM
 (SELECT 
   host_team,
-  case 
+  CASE 
     when host_goals > guest_goals then 3
     when host_goals = guest_goals then 1
     else 0
@@ -18,7 +18,7 @@ SELECT guest_team AS team_id, SUM(guest_points_tmp.guest_points) AS team_points
 FROM
 (SELECT 
   guest_team,
-  case 
+  CASE 
     when host_goals < guest_goals then 3
     when host_goals = guest_goals then 1
     else 0
