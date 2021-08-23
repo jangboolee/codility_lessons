@@ -11,3 +11,10 @@ My solutions to the lesson questions at https://app.codility.com/programmers/les
     * [FrogJmp](https://github.com/jangboolee/codility_lessons/blob/main/03a_frog_jump.py)
     * [PermMissingElem](https://github.com/jangboolee/codility_lessons/blob/main/03b_perm_missing_elem.py)
     * [TapeEquilibrium](https://github.com/jangboolee/codility_lessons/blob/main/03c_tape_equilibrium.py)
+
+# Solutions to Codility trainings
+
+My solutions to the  training questions at https://app.codility.com/programmers/trainings.
+
+* Lesson 6: SQL
+    * [SqlWorldCup]()
