@@ -5,10 +5,10 @@ FROM
 (SELECT 
   host_team,
   CASE 
-    when host_goals > guest_goals then 3
-    when host_goals = guest_goals then 1
-    else 0
-    end as host_points
+    WHEN host_goals > guest_goals THEN 3
+    WHEN host_goals = guest_goals THEN 1
+    ELSE 0
+    END AS host_points
 FROM matches) AS host_points_tmp
 GROUP BY host_points_tmp.host_team
 
@@ -19,10 +19,10 @@ FROM
 (SELECT 
   guest_team,
   CASE 
-    when host_goals < guest_goals then 3
-    when host_goals = guest_goals then 1
-    else 0
-    end as guest_points
+    WHEN host_goals < guest_goals THEN 3
+    WHEN host_goals = guest_goals THEN 1
+    ELSE 0
+    END AS guest_points
 FROM matches) AS guest_points_tmp
 GROUP BY guest_points_tmp.guest_team;
 
