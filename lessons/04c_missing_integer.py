@@ -10,7 +10,7 @@ def solution(A):
     else:
         
         # Initialize a dictionary of all of the numbers that should be found
-        counter = {num + 1: 0 for num in range(len(unique_A)+1)}
+        counter = {num: 0 for num in range(1, len(unique_A) + 1)}
         
         # Flag the values that have been found
         for num in unique_A:
