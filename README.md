@@ -11,6 +11,11 @@ My solutions to the lesson questions at https://app.codility.com/programmers/les
     * [FrogJmp](https://github.com/jangboolee/codility_lessons/blob/main/lessons/03a_frog_jump.py)
     * [PermMissingElem](https://github.com/jangboolee/codility_lessons/blob/main/lessons/03b_perm_missing_elem.py)
     * [TapeEquilibrium](https://github.com/jangboolee/codility_lessons/blob/main/lessons/03c_tape_equilibrium.py)
+* Lesson 4: Counting Elements
+   * [FrogRiverOne](https://github.com/jangboolee/codility_solutions/blob/main/lessons/04a_frog_river_one.py)
+   * [PermCheck](https://github.com/jangboolee/codility_solutions/blob/main/lessons/04b_perm_check.py)
+   * [MaxCounters](https://github.com/jangboolee/codility_solutions/blob/main/lessons/04c_max_counters.py)
+   * [MissingInteger](https://github.com/jangboolee/codility_solutions/blob/main/lessons/04c_missing_integer.py)
 
 # Solutions to Codility trainings
 
